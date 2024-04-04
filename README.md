@@ -3,9 +3,11 @@
 > npm i quest-ads
 
 ```js
-// anotherFile.js
+// index.js
 
 const greet = require("quest-ads");
 
 greet("Hello from the installed package!");
 ```
+
+> node index.js
