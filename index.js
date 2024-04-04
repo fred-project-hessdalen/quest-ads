@@ -1,7 +1,7 @@
 // index.js
 
 function greet(message) {
-  console.log(message);
+  console.log('MESSAGE: ' + message);
 }
 
 module.exports = greet;
