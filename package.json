@@ -1,0 +1,16 @@
+{
+  "name": "quest-ads",
+  "version": "1.0.0",
+  "description": "A Design System for Project Hessdalen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Fred Pallesen",
+    "email": "fred@hessdalen.com",
+    "url": "https://fred.technology/"
+  },
+  "contributors": [],
+  "license": "ISC"
+}
